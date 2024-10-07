@@ -1,2 +1,1 @@
-# aditya_code_place
-my first git hub account
+# this file is prepared by aditya 
